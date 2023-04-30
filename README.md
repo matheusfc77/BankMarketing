@@ -1,2 +1,2 @@
 # BankMarketing
-Modelo de classificação dos dados relacionados as campanhas de marketing de uma instituição financeira portuguesa.
+Classification model of data related to marketing campaigns of a Portuguese financial institution.
